@@ -2,6 +2,7 @@
 # 
 # Author: Saturnino Mateus
 # Contact: s.nataniel0@gmail.com
+#	   saturninonataniel@gec.inatel.br
 
 # -----------------------------------
 import random
